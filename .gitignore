@@ -1,0 +1,11 @@
+
+# ===== CMake =====
+CMakeFiles/
+CMakeCache.txt
+
+# Common build dirs
+build/
+
+# ===== Visual Studio / MSBuild =====
+.vs/
+.vscode/
